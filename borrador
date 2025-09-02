@@ -1,0 +1,19 @@
+<header>
+        <h1>Plataformas más reconocidas</h1>
+        <p>Las plataformas más populares para juegos de PC son Steam, Epic Games Store y Microsoft Store</p>
+    </header>
+    <section>
+        <h2>Steam</h2>
+        <p>es una plataforma de distribución digital de videojuegos desarrollada por Valve Corporation. Fue lanzada en septiembre de 2003 como una forma para Valve de proveer actualizaciones automáticas a sus juegos, pero finalmente se amplió para incluir juegos de terceros.</p>
+    </section>
+    <section>
+        <h2>Epic Games</h2>
+        <p>es una compañía estadounidense fundada en 1991 por el director ejecutivo Tim Sweeney. Epic es una empresa líder en el sector del entretenimiento interactivo y proporciona tecnología de motores gráficos 3D.</p>
+    </section>
+    <section>
+        <h3>Microsoft Store</h3>
+        <p>La Microsoft Store es una tienda digital de Microsoft donde se pueden encontrar y descargar aplicaciones, juegos, películas, programas de TV y otros contenidos para dispositivos Windows, como computadoras y consolas Xbox. También permite la compra de hardware como computadoras y accesorios. </p>
+    </section>
+    <footer>
+        <p>Pie de pagina -&copy; 2025</p>
+    </footer>
